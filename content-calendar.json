@@ -1,39 +1,39 @@
 {
-  "week_start": "2026-09-28",
+  "week_start": "2026-10-05",
   "days": {
-    "2026-09-28": {
+    "2026-10-05": {
       "category": "Kundenservice/24-7-Support",
-      "topic": "How a chatbot handles a flood of Instagram DMs during a flash sale without leaving a single customer waiting",
+      "topic": "How an AI chatbot answers questions about order status and appointment availability instantly, even on weekends when the team is fully offline",
       "status": "planned"
     },
-    "2026-09-29": {
+    "2026-10-06": {
       "category": "Automatisierung/Effizienz",
-      "topic": "Automating repetitive replies about shipping times and return policies so the team only handles questions that need a human touch",
+      "topic": "Automating the follow-up messages sent after a customer abandons their cart on Instagram, nudging them back without anyone lifting a finger",
       "status": "planned"
     },
-    "2026-09-30": {
+    "2026-10-07": {
       "category": "Chatbot/ROI",
-      "topic": "How turning Instagram comments and DMs into tracked sales conversations reveals the real revenue a chatbot generates each month",
+      "topic": "Comparing the cost of hiring a part-time support rep to the cost of a 24/7 chatbot handling the same volume of Instagram inquiries",
       "status": "planned"
     },
-    "2026-10-01": {
+    "2026-10-08": {
       "category": "KI-Tools/Digitalisierung",
-      "topic": "Three signs a small business is actually ready to add its first AI tool, and what to set up before flipping the switch",
+      "topic": "A simple framework for choosing between an off-the-shelf chatbot tool and a custom-built one based on how specific a business's questions really are",
       "status": "planned"
     },
-    "2026-10-02": {
+    "2026-10-09": {
       "category": "Kundenservice/24-7-Support",
-      "topic": "What happens to a customer's question at 11pm without 24/7 AI support, and what changes the moment it's added",
+      "topic": "What a potential customer experiences when they DM a business at 2am and get a helpful, on-brand answer instead of silence until Monday",
       "status": "planned"
     },
-    "2026-10-03": {
+    "2026-10-10": {
       "category": "Automatisierung/Effizienz",
-      "topic": "Automating the handoff from chatbot to a human team member for complex requests, so nothing feels like a dead end",
+      "topic": "Automating the weekly FAQ update process so the chatbot always has the latest pricing and policy information without manual edits",
       "status": "planned"
     },
-    "2026-10-04": {
+    "2026-10-11": {
       "category": "Chatbot/ROI",
-      "topic": "Calculating the hidden cost of every missed message before a chatbot, and what changes once every inquiry gets answered",
+      "topic": "Tracking how many Instagram followers turn into paying customers after a chatbot conversation, and why that number matters more than follower count",
       "status": "planned"
     }
   }
