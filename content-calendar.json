@@ -1,39 +1,39 @@
 {
-  "week_start": "2026-10-05",
+  "week_start": "2026-10-12",
   "days": {
-    "2026-10-05": {
+    "2026-10-12": {
       "category": "Kundenservice/24-7-Support",
-      "topic": "How an AI chatbot answers questions about order status and appointment availability instantly, even on weekends when the team is fully offline",
+      "topic": "How a multilingual AI chatbot automatically detects whether a DM is in German or English and replies in the same language, so no customer gets a mismatched or confusing response",
       "status": "planned"
     },
-    "2026-10-06": {
+    "2026-10-13": {
       "category": "Automatisierung/Effizienz",
-      "topic": "Automating the follow-up messages sent after a customer abandons their cart on Instagram, nudging them back without anyone lifting a finger",
+      "topic": "Automating appointment reminder messages sent 24 hours before a booked consultation, cutting no-shows without anyone manually checking a calendar",
       "status": "planned"
     },
-    "2026-10-07": {
+    "2026-10-14": {
       "category": "Chatbot/ROI",
-      "topic": "Comparing the cost of hiring a part-time support rep to the cost of a 24/7 chatbot handling the same volume of Instagram inquiries",
+      "topic": "Calculating how many actual staff-hours per week a chatbot frees up by answering routine questions, and translating that into a concrete cost-savings figure",
       "status": "planned"
     },
-    "2026-10-08": {
+    "2026-10-15": {
       "category": "KI-Tools/Digitalisierung",
-      "topic": "A simple framework for choosing between an off-the-shelf chatbot tool and a custom-built one based on how specific a business's questions really are",
+      "topic": "The most common mistake businesses make when launching a chatbot: never building a clear handoff path to a human for questions it can't answer",
       "status": "planned"
     },
-    "2026-10-09": {
+    "2026-10-16": {
       "category": "Kundenservice/24-7-Support",
-      "topic": "What a potential customer experiences when they DM a business at 2am and get a helpful, on-brand answer instead of silence until Monday",
+      "topic": "Why answering a public Instagram comment with a vague reply looks worse than moving the conversation to DMs, and how a chatbot can prompt that handoff automatically",
       "status": "planned"
     },
-    "2026-10-10": {
+    "2026-10-17": {
       "category": "Automatisierung/Effizienz",
-      "topic": "Automating the weekly FAQ update process so the chatbot always has the latest pricing and policy information without manual edits",
+      "topic": "Automating the first round of lead-qualification questions in Instagram DMs so the sales team only spends time on inquiries that are actually ready to buy",
       "status": "planned"
     },
-    "2026-10-11": {
+    "2026-10-18": {
       "category": "Chatbot/ROI",
-      "topic": "Tracking how many Instagram followers turn into paying customers after a chatbot conversation, and why that number matters more than follower count",
+      "topic": "How the speed of a business's first reply to an Instagram inquiry (minutes vs. hours) measurably changes the odds that a lead turns into a sale",
       "status": "planned"
     }
   }
